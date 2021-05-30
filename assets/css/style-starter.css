@@ -725,6 +725,7 @@ pre code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+  margin-bottom: 3%;
 }
 
 .no-gutters {
@@ -12521,6 +12522,9 @@ h5.small-title-2 {
   font-weight: 600;
 }
 
+.about-detail h4.hover{
+    color: var(--secondary-color);   
+}
 .about-detail p {
   line-height: 26px;
 }
