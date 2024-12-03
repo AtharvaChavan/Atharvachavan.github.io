@@ -12533,6 +12533,14 @@ h5.small-title-2 {
   color: var(--secondary-color);
   font-size: 45px;
 }
+.icon-style-ab {
+    width: 40px; /* Set a fixed width */
+    height: 40px; /* Set a fixed height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 16px; /* Consistent margin */
+}
 
 @media (max-width: 1200px) {
   h3.title-style {
